@@ -73,9 +73,9 @@
     </dependency>
 
     <dependency>
-      <groupId>org.apache.derby</groupId>
-      <artifactId>derbyclient</artifactId>
-      <version>10.17.1.0</version>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.28</version>
     </dependency>
 
     <dependency>
